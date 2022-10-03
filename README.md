@@ -1,2 +1,2 @@
-# Senai-exercíciosHTML
+# Senai-exerciciosHTML
 Exercícios em HTML
